@@ -8,7 +8,9 @@
 
 ## Problem Statement:
 
+With the rapid adoption of Unified Payments Interface (UPI) in India, digital transactions have grown exponentially across individuals, merchants, and financial institutions. However, the increasing volume of transactions generates large datasets that are often underutilized for deriving meaningful insights.
 
+This project aims to analyze UPI transaction data to understand user behavior, transaction trends, payment success rates, and peak usage patterns. The objective is to identify key performance indicators such as transaction volume, transaction value distribution, failure rates, and top contributing merchant categories.
 
 
 
