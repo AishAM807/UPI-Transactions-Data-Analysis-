@@ -51,3 +51,6 @@ This project aims to analyze UPI transaction data to understand user behavior, t
 <img width="973" height="551" alt="Image" src="https://github.com/user-attachments/assets/c0a92745-36d4-4ade-89a7-a0201bcf5e7d" />
 
 <img width="432" height="545" alt="Image" src="https://github.com/user-attachments/assets/cbf1de1c-9546-4955-93c0-aa791326a5d7" />
+
+
+- Step 14: Published the completed Power BI report to Power BI Service for online access and interactive data analysis.
