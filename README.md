@@ -32,11 +32,19 @@ This project aims to analyze UPI transaction data to understand user behavior, t
 - Step 10: Enhanced the second report page with a matrix visual that provides a comprehensive breakdown of Total Amount and Remaining Balance by Transaction Month, City, and Currency, enabling detailed analysis of transaction performance across multiple dimensions.
 - Step 11: Implemented the Sync Slicers feature to synchronize all filters between Page 1 and Page 2, allowing users to apply consistent filtering across both report pages.
 
-<img width="938" height="655" alt="Image" src="https://github.com/user-attachments/assets/cde13fdc-a669-4073-8fb4-1a059b5eca21" />
 
 <img width="420" height="264" alt="Image" src="https://github.com/user-attachments/assets/cd3a82f4-605b-441c-8e30-92e577614dc2" />
+
+
 - Step 12: Applied conditional formatting to the matrix visual to highlight price variations using background colors based on the lowest and highest price values.
+
+  
+<img width="938" height="655" alt="Image" src="https://github.com/user-attachments/assets/cde13fdc-a669-4073-8fb4-1a059b5eca21" />
+
+
+  
 - Step 13: Implemented Power BI bookmarks by duplicating the existing line chart and converting the duplicate into a column chart. Configured the Selection Pane and Bookmarks Pane to control visual visibility and enable interactive navigation between the two chart views.
+  
 
 <img width="962" height="449" alt="Image" src="https://github.com/user-attachments/assets/49d8e180-a7fc-41b6-bdac-2deee213a505" />
 
