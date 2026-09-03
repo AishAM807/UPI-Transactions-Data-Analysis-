@@ -28,3 +28,9 @@ This project aims to analyze UPI transaction data to understand user behavior, t
 
 - Step 7: Assigned relevant data fields to the 10 slicers.
 - Step 8: To maintain consistency and accommodate all required slicers, Report Page 2 was created by duplicating Report Page 1, preserving the existing layout and visual structure.
+- Step 9: Added a line chart on the first report page to display monthly transaction amounts and identify transaction trends over time. Also, added a Currency filter in the filter pane to enable analysis of transaction amounts by selected currency.
+- Step 10: Enhanced the second report page with a matrix visual that provides a comprehensive breakdown of Total Amount and Remaining Balance by Transaction Month, City, and Currency, enabling detailed analysis of transaction performance across multiple dimensions.
+- Step 11: Implemented the Sync Slicers feature to synchronize all filters between Page 1 and Page 2, allowing users to apply consistent filtering across both report pages.
+- Step 12: Applied conditional formatting to the matrix visual to highlight price variations using background colors based on the lowest and highest price values.
+- Step 13: Implemented Power BI bookmarks by duplicating the existing line chart and converting the duplicate into a column chart. Configured the Selection Pane and Bookmarks Pane to control visual visibility and enable interactive navigation between the two chart views.
+
