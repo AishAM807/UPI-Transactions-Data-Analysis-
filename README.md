@@ -34,3 +34,8 @@ This project aims to analyze UPI transaction data to understand user behavior, t
 - Step 12: Applied conditional formatting to the matrix visual to highlight price variations using background colors based on the lowest and highest price values.
 - Step 13: Implemented Power BI bookmarks by duplicating the existing line chart and converting the duplicate into a column chart. Configured the Selection Pane and Bookmarks Pane to control visual visibility and enable interactive navigation between the two chart views.
 
+<img width="962" height="449" alt="Image" src="https://github.com/user-attachments/assets/49d8e180-a7fc-41b6-bdac-2deee213a505" />
+
+<img width="973" height="551" alt="Image" src="https://github.com/user-attachments/assets/c0a92745-36d4-4ade-89a7-a0201bcf5e7d" />
+
+<img width="432" height="545" alt="Image" src="https://github.com/user-attachments/assets/cbf1de1c-9546-4955-93c0-aa791326a5d7" />
