@@ -54,3 +54,7 @@ This project aims to analyze UPI transaction data to understand user behavior, t
 
 
 - Step 14: Published the completed Power BI report to Power BI Service for online access and interactive data analysis.
+
+
+ 
+ # Report Snapshot (Power BI DESKTOP)
