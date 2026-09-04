@@ -58,3 +58,8 @@ This project aims to analyze UPI transaction data to understand user behavior, t
 
  
  # Report Snapshot (Power BI DESKTOP)
+
+<img width="871" height="486" alt="Image" src="https://github.com/user-attachments/assets/3383cbe5-5d22-40b7-9338-01c26cbaa484" />
+
+
+<img width="881" height="493" alt="Image" src="https://github.com/user-attachments/assets/76ac82ee-ed05-4117-afc0-4e3f5cd187dd" />
