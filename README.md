@@ -63,3 +63,29 @@ This project aims to analyze UPI transaction data to understand user behavior, t
 
 
 <img width="881" height="493" alt="Image" src="https://github.com/user-attachments/assets/76ac82ee-ed05-4117-afc0-4e3f5cd187dd" />
+
+# Insights
+
+A two pages report was created on Power BI Desktop & it was then published to Power BI Service.
+
+Following inferences can be drawn from the dashboard;
+
+
+### [1] 📊 Transaction Amount
+	Total transaction amount: 19.87M
+	Average monthly transaction amount: 1.66M
+	Highest transaction month: May — 1.707M
+	Lowest transaction month: August — 1.599M
+	The difference between the highest and lowest month is approximately 108K, representing about 6.8% variation.
+	Transaction amounts remained relatively stable throughout the year, staying within approximately 1.60M–1.71M.
+
+### [2] 💰 Remaining Balance 
+	Highest remaining balance: Delhi in June — 8.536M
+	Lowest remaining balance: Mumbai in May — 8.222M
+	Overall displayed remaining balances range from approximately 8.22M to 8.54M.
+	Delhi had the highest average remaining balance among the four cities at approximately 8.437M.
+	Mumbai had the lowest average remaining balance at approximately 8.296M.
+
+
+### Conclusion: 
+		The analysis shows total annual transactions of approximately 19.87M, with an average monthly transaction value of 1.66M. May recorded the highest transaction amount at 1.707M, while August recorded the lowest at 1.599M. From a city perspective, Mumbai generated the highest transaction volume at 5.053M, followed by Delhi at 5.037M. The transaction trend remained relatively stable throughout the year, with a noticeable decline between May and August followed by a recovery in September and October.
